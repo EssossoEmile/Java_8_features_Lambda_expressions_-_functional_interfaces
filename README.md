@@ -94,3 +94,5 @@ public class Main {
 	}
 }
 ```
+## Reference
+[1] https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html
