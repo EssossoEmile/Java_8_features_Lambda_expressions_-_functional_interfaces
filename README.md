@@ -1,6 +1,8 @@
 ## Java 8 Features (Java Lambda Expressions and Functional interfaces)
 ### Java Lambda Expressions
 Is one of the best feature in Java 8. I really like it because it is the first step to Functional Programming.
+Lambda Expression is an anonymous function which accepts a set of input parameters and returns results.
+Lambda Expression is a block of code without any name, with or without parameters and with or without results. This block of code is executed on demand.
 
 See an example with one argument
 ```
